@@ -1,2 +1,0 @@
-﻿# harsh-s-bhumisetu
-This project is all about land revenue knowledge and knowing the property owner.
